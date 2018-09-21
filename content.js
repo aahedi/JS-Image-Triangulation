@@ -7,7 +7,7 @@ var c;
 var ctx;
 var _image;
 var _imageData;
-var imageURL = "assets/face.jpg";
+var imageURL = "https://aahedi.github.io/android/real.png";
 
 var tracer;
 var vertices = [];
